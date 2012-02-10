@@ -128,4 +128,32 @@ PRODUCT_COPY_FILES += \
     vendor/bn/encore/proprietary/libOpenVG.so:/system/lib/libOpenVG.so \
     vendor/bn/encore/proprietary/libpvr2d.so:/system/lib/libpvr2d.so \
     vendor/bn/encore/proprietary/libsrv_init.so:/system/lib/libsrv_init.so \
+    vendor/bn/encore/prebuilt/libaudio.so:/system/lib/libaudio.so \
+    vendor/bn/encore/prebuilt/libaudiopolicy.so:/system/lib/libaudiopolicy.so \
+    vendor/bn/encore/prebuilt/alsa.omap3.so:/system/lib/hw/alsa.omap3.so \
+    vendor/bn/encore/prebuilt/liba2dp.so:/system/lib/liba2dp.so \
+    vendor/bn/encore/prebuilt/libasound.so:/system/lib/libasound.so \
+    vendor/bn/encore/prebuilt/hda:/system/usr/share/alsa/init/hda \
+    vendor/bn/encore/prebuilt/00main:/system/usr/share/alsa/init/00main \
+    vendor/bn/encore/prebuilt/help:/system/usr/share/alsa/init/help \
+    vendor/bn/encore/prebuilt/default:/system/usr/share/alsa/init/default \
+    vendor/bn/encore/prebuilt/info:/system/usr/share/alsa/init/info \
+    vendor/bn/encore/prebuilt/test:/system/usr/share/alsa/init/test \
+    vendor/bn/encore/prebuilt/surround51.conf:/system/usr/share/alsa/pcm/surround51.conf \
+    vendor/bn/encore/prebuilt/surround41.conf:/system/usr/share/alsa/pcm/surround41.conf \
+    vendor/bn/encore/prebuilt/default.conf:/system/usr/share/alsa/pcm/default.conf \
+    vendor/bn/encore/prebuilt/dmix.conf:/system/usr/share/alsa/pcm/dmix.conf \
+    vendor/bn/encore/prebuilt/modem.conf:/system/usr/share/alsa/pcm/modem.conf \
+    vendor/bn/encore/prebuilt/side.conf:/system/usr/share/alsa/pcm/side.conf \
+    vendor/bn/encore/prebuilt/front.conf:/system/usr/share/alsa/pcm/front.conf \
+    vendor/bn/encore/prebuilt/iec958.conf:/system/usr/share/alsa/pcm/iec958.conf \
+    vendor/bn/encore/prebuilt/surround50.conf:/system/usr/share/alsa/pcm/surround50.conf \
+    vendor/bn/encore/prebuilt/surround40.conf:/system/usr/share/alsa/pcm/surround40.conf \
+    vendor/bn/encore/prebuilt/surround71.conf:/system/usr/share/alsa/pcm/surround71.conf \
+    vendor/bn/encore/prebuilt/dpl.conf:/system/usr/share/alsa/pcm/dpl.conf \
+    vendor/bn/encore/prebuilt/dsnoop.conf:/system/usr/share/alsa/pcm/dsnoop.conf \
+    vendor/bn/encore/prebuilt/rear.conf:/system/usr/share/alsa/pcm/rear.conf \
+    vendor/bn/encore/prebuilt/center_lfe.conf:/system/usr/share/alsa/pcm/center_lfe.conf \
+    vendor/bn/encore/prebuilt/aliases.conf:/system/usr/share/alsa/cards/aliases.conf \
+    vendor/bn/encore/prebuilt/alsa.conf:/system/usr/share/alsa/alsa.conf \
 
